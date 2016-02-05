@@ -1,0 +1,1 @@
+/home/ucsc_uav/Documents/codes/Canny/CMakeFiles/bin/Canny.dir
